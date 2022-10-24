@@ -32,6 +32,9 @@ This section displays the data models imported and connected to form a dashboard
 
 Below is a screenshot of the data model after cleansed and prepared tables were imported into Power BI. This data model also shows how FACT\_Budget has been connected to FACT\_InternetSales and other DIM tables within the model.
 
+![Data_Model+Budget](https://user-images.githubusercontent.com/91084797/197477363-bf7f8359-8205-46c1-830b-44934ea22ca7.png)
+
+
 ![](RackMultipart20221024-1-b0jkgv_html_623a688d99f26158.png)
 
 # ![Shape9](RackMultipart20221024-1-b0jkgv_html_425bbb16e3c3502.gif)
@@ -40,6 +43,7 @@ Microsoft Power BI
 
 Sales Management Dashboard:
 
-# ![](RackMultipart20221024-1-b0jkgv_html_aa3476f349f5266d.png) ![](RackMultipart20221024-1-b0jkgv_html_54406b66b405a7f9.png) ![](RackMultipart20221024-1-b0jkgv_html_24fb5a5daf76d0e5.png) ![Shape10](RackMultipart20221024-1-b0jkgv_html_2cec9bca45673145.gif)
+# ![](RackMultipart20221024-1-b0jkgv_html_aa3476f349f5266d.png) ![](RackMultipart20221024-1-b0jkgv_html_54406b66b405a7f9.png) ![](RackMultipart20221024-1-b0jkgv_html_24fb5a5daf76d0e5.png) ![Shape10](RackMultipart20221024-1-b0jkgv_html_2cec9bca45673145.gif)[Uploading Microsoft-Power-BI-Storytelling.pptx…]()
+
 
 [View in Power BI](https://app.powerbi.com/groups/me/reports/c37d2bd9-5773-41cb-9cbe-550293122765?pbi_source=PowerPoint)
