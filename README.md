@@ -43,7 +43,11 @@ Microsoft Power BI
 
 Sales Management Dashboard:
 
-# ![](RackMultipart20221024-1-b0jkgv_html_aa3476f349f5266d.png) ![](RackMultipart20221024-1-b0jkgv_html_54406b66b405a7f9.png) ![](RackMultipart20221024-1-b0jkgv_html_24fb5a5daf76d0e5.png) ![Shape10](RackMultipart20221024-1-b0jkgv_html_2cec9bca45673145.gif)[Uploading Microsoft-Power-BI-Storytelling.pptx…]()
+# ![](RackMultipart20221024-1-b0jkgv_html_aa3476f349f5266d.png) ![](RackMultipart20221024-1-b0jkgv_html_54406b66b405a7f9.png) ![](RackMultipart20221024-1-b0jkgv_html_24fb5a5daf76d0e5.png) ![Shape10](RackMultipart20221024-1-b0jkgv_html_2cec9bca45673145.gif)
+
+![Fssasasasasas](https://user-images.githubusercontent.com/91084797/197477895-e6c94265-aaca-46c1-82b8-e65358a2d2d7.png)
 
 
-[View in Power BI](https://app.powerbi.com/groups/me/reports/c37d2bd9-5773-41cb-9cbe-550293122765?pbi_source=PowerPoint)
+
+[View in Power BI](https://app.powerbi.com/groups/me/reports/c37d2bd9-5773-41cb-9cbe-550293122765?pbi_source=PowerPoint)![Sales Report_Overview](https://user-images.githubusercontent.com/91084797/197477864-38073e44-dabf-41fd-be43-ff0cd068dd1a.jpg)
+
