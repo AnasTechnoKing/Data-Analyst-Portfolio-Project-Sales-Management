@@ -1,15 +1,3 @@
-![Shape2](RackMultipart20221024-1-b0jkgv_html_9e54ad8735b0307b.gif) ![Shape1](RackMultipart20221024-1-b0jkgv_html_2db1e607b58cef7.gif)
-
-**Date:** 10/23/2022 9:25:37 PM UTC
-
-![](RackMultipart20221024-1-b0jkgv_html_c65792e49d8bc6ba.png) ![Shape4](RackMultipart20221024-1-b0jkgv_html_b899cc170e6fa41e.gif) ![Picture 3](RackMultipart20221024-1-b0jkgv_html_26f415b3f29357f6.gif) ![](RackMultipart20221024-1-b0jkgv_html_a04cf3a6b963ef7e.png)[![](RackMultipart20221024-1-b0jkgv_html_25905c78001374b1.png)](https://www.linkedin.com/in/anas-aljarrah/) ![Shape3](RackMultipart20221024-1-b0jkgv_html_759575f9e8c35675.gif)
-
-[View in Power BI](https://app.powerbi.com/groups/me/reports/c37d2bd9-5773-41cb-9cbe-550293122765?pbi_source=PowerPoint)
-
-_Created By:_
-
-Anas Al Jarrah
-
 # Data Analyst Portfolio Project – Sales Management
 
 # Scenario:
